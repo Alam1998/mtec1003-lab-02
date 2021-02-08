@@ -15,9 +15,10 @@ Follow the instructions line-by-line.
 Write the command that you used to do this below:
 ----------
 
+$ cd desktop
 $ cd myclasses
 $ cd mtec1003
-$ cd mtec1003-lab-02
+
 
 
 ==========
@@ -26,7 +27,7 @@ $ cd mtec1003-lab-02
 Write the command that you used to do this - as well as its output - below :
 ----------
 
-
+$ cd ~/desktop/myclasses/mtec1003
 
 ==========
 1c. Create a new directory inside your home directory named after this class. Call it "mtec1003-lab-02".
