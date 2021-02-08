@@ -174,7 +174,7 @@ $ rm -rf my_files
 (options r = recursive; f = skip confirmation)
 ----------
 
-
+$ rm -rf my_files
 
 
 
