@@ -37,7 +37,7 @@ What command did you use, and what was its output?
 $ cal
 bash: cal: command not found
 
-(Calendar command don't work on Windows 10)
+(Calendar command doesn't work on Windows 10)
 
 
 
